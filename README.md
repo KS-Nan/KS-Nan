@@ -1,6 +1,6 @@
 <h1 align="center">Heyoo 👋, I'm Soknan.</h1>
 <h3 align="center">Currently is a Data Science 2nd-year student - AI & Machine Learning.</h3>
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif">
+<img align="right" alt="Coding" width="300" src="https://uploads-ssl.webflow.com/5c19100c2b50073e6ee69da1/60d35967a853a1b14851703b_All%20the%20data%20(1).gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=KS-Nan&label=Profile%20views&color=0e75b6&style=flat" alt="Soknan" /> </p>
 
