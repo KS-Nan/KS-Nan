@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=KS-Nan&label=Profile%20views&color=0e75b6&style=flat" alt="Soknan" /> </p>
 
-- 🔭 I’m currently working on **None.**
+- 🎓Currently pursuing a degree in **Data Science.**
 
 - 🌱 I’m currently learning **Data Analytics and basic of Machine Learning.**
 
