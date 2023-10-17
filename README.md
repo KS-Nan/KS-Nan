@@ -19,8 +19,7 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left">
-    <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
+  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
     </a>
     <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
@@ -29,7 +28,15 @@
     <a href="https://www.python.org" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
     </a>
-</p>
+    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
+    </a>
+        <a href="https://www.java.com/en/" target="_blank" rel="noreferrer">
+        <img src="https://avatars3.githubusercontent.com/u/18692364?s=400&v=4" alt="html5" width="40" height="40">
+    </a>
+     <a href="https://www.dart.dev" target="_blank" rel="noreferrer">
+    <img src="https://cdn-images-1.medium.com/v2/resize:fit:1200/1*knHF_qpxdtS8h0Z8EeqowA.png" alt="dart" width="40" height="40"/>
+  </a>
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=KS-Nan&show_icons=true&locale=en&layout=compact" alt="KS-Nan" /></p>
