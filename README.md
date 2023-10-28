@@ -13,11 +13,17 @@
 - 📫 How to reach me **koumsoknan096@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://fb.com/koum.soknan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Swayy" height="30" width="40" /></a>
-<a href="https://instagram.com/koum_soknan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Swayy" height="30" width="40" /></a>
-</p>
 
+<p align="left">
+  <a href="https://fb.com/koum.soknan">
+    <img src="https://upload.wikimedia.org/wikipedia/en/thumb/0/04/Facebook_f_logo_%282021%29.svg/1024px-Facebook_f_logo_%282021%29.svg.png" alt="Facebook" width="35" />
+  </a>
+  <a href="https://instagram.com/koum_soknan">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Instagram_logo_2022.svg/1024px-Instagram_logo_2022.svg.png" alt="Instagram" width="35" />
+  </a>
+  <a href="http://linkedin.com/in/koum-soknan">
+    <img src="https://th.bing.com/th?id=ODLS.c1b94e26-52d8-4d85-8faf-a367583929ce&w=32&h=32&qlt=91&pcl=fffffa&o=6&pid=1.2" alt="LinkedIn" width="35" />
+  </a>
 <h3 align="left">Languages and Tools:</h3>
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
