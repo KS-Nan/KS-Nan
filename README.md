@@ -8,8 +8,6 @@
 
 - 🌱 I’m currently learning **Data Analytics and basic of Machine Learning.**
 
-- 💬 Ask me about **python**
-
 - 📫 How to reach me **koumsoknan096@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
